@@ -1,7 +1,0 @@
-echo "# projet" >> LISEZMOI.md 
-git init 
-git add LISEZMOI.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin git@github.com:abdallan10/projet.git
- git push -u origin principale
